@@ -8,6 +8,11 @@ Unlike traditional recognition systems that only translate gestures, SignLab foc
 
 The application uses MediaPipe hand landmark detection and machine learning models to recognize ASL gestures in real time.
 
+## Deliverables
+<img width="836" height="384" alt="image" src="https://github.com/user-attachments/assets/be1314d7-2af7-4213-a862-7e3529a5e212" />
+<img width="495" height="384" alt="image" src="https://github.com/user-attachments/assets/eb4eb25d-f657-4224-a13e-7684f64c2700" />
+<img width="491" height="308" alt="image" src="https://github.com/user-attachments/assets/c4d312b8-11f5-47df-8d9b-a9373d332780" />
+
 ## Key Features:
 
 ### Real-Time Gesture Recognition:
